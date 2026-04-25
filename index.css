@@ -8,11 +8,11 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(156, 100, 100);
+    background-color: #7DA78C;
 }
 
 .box {
-    background-color: rgba(129, 74, 28, 0.653);
+    background-color: #35858E;
     color: black;
     padding: 60px;
     min-height: 300px;
@@ -34,7 +34,7 @@
 
 #btn {
     padding: 15px;
-    background-color: rgb(103, 51, 51);
+    background-color: rgb(90, 32, 32);
     border-radius: 10px;
     font-size: 15px;
     color: white;
@@ -43,7 +43,7 @@
 }
 
 #btn:hover {
-    background-color: rgb(80, 30, 30);
+    background-color: rgb(110, 44, 44);
 }
 
 #joke {
